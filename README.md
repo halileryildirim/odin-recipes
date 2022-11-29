@@ -1,4 +1,4 @@
-# odin-projects
+# odin-recipes
 
 Practiced basics of HTML including;
 
